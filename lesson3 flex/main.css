@@ -1,0 +1,35 @@
+.wrap{
+    background: rgba(148, 148, 148, 0.73);
+    width: 610px;
+    align-items: stretch;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.header{
+    background: #ef005c;
+    width: 600px;
+    height: 150px;
+}
+.menu{
+    background: #38a1ff;
+    width: 200px;
+    height: 300px;
+}
+.post1{
+    background: #565dd9;
+    width: 400px;
+    height: 150px;
+}
+.post2{
+    background: #a1ff00;
+    width: 400px;
+    height: 150px;
+}
+.footer{
+    background: #413f3f;
+    width: 600px;
+    height: 150px;
+}
