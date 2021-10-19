@@ -1,0 +1,25 @@
+.wrap{
+    width: 600px;
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+.header{
+    background: #ef005c;
+    width: 600px;
+    height: 230px;
+}
+.menu{
+    background: #ff4c00;
+    width: 600px;
+    height: 230px;
+}
+.contact{
+    background: #413f3f;
+    width: 600px;
+    height: 400px;
+}
+.main{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
