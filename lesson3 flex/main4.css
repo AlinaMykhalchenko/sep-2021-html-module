@@ -1,0 +1,39 @@
+.wrap{
+    background: white;
+    height: 910px;
+    width: 630px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.main{
+    margin-top: 2px;
+    display: flex;
+    justify-content:space-evenly;
+}
+.header{
+    background: #ef005c;
+    width: 600px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    background: #ff4c00;
+    width: 180px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    margin: 10px;
+}
+.contact{
+    background: #413f3f;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
