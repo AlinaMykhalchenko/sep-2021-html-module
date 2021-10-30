@@ -12,24 +12,39 @@
     background: #ef005c;
     width: 600px;
     height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .menu{
     background: #38a1ff;
     width: 200px;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .post1{
     background: #565dd9;
     width: 400px;
     height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .post2{
     background: #a1ff00;
     width: 400px;
     height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer{
     background: #413f3f;
     width: 600px;
     height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
