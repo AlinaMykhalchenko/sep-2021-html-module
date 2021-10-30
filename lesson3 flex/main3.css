@@ -2,24 +2,39 @@
     background: rgb(32, 88, 140);
     width: 600px;
     height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .header{
     background: #2b7fce;
     width: 600px;
     height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .menu{
     background: #5d76b7;
     width: 200px;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .post1{
     background: #1db2e5;
     width: 400px;
     height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer{
     background: #14d7d7;
     width: 600px;
     height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
