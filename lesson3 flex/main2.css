@@ -1,0 +1,33 @@
+.header{
+    background: rgba(65, 63, 63, 0.73);
+    width: 600px;
+    height: 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin: 5px;
+    border-radius: 8px;
+}
+.menu{
+    background: #797474;
+    width: 190px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin: 5px;
+    border-radius: 8px;
+}
+.post1{
+    background: rgba(65, 63, 63, 0.73);
+    width: 400px;
+    height: 300px;display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
